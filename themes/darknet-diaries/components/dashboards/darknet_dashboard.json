@@ -28,7 +28,7 @@
         { "image_path": "assets/dashboard/highlight.png","x": 0, "y": 0 },
         { "image_path": "assets/dashboard/item_bg.png", "x": 4, "y": 5, "recolor_palette": "red" },
         { "image_path": "assets/dashboard/alerts.png", "x": 19, "y": 18, "recolor_palette": "black" },
-        { "text": "ALERTS", "x": -250, "y":  90, "text_size": "medium", "text_color_palette": "white" }
+        { "text": "ALERTS", "x": -255, "y":  90, "text_size": "medium", "text_color_palette": "white" }
       ],
       "x": 263,
       "y": 79,
@@ -44,7 +44,7 @@
         { "image_path": "assets/dashboard/highlight.png","x": 0, "y": 0 },
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5, "recolor_palette": "red" },
         { "image_path": "assets/dashboard/payloads.png", "x": 23, "y": 18,  "recolor_palette": "black" },
-        { "text": "PAYLOADS", "x": -290, "y":  55, "text_size": "medium", "text_color_palette": "white" }
+        { "text": "PAYLOADS", "x": -290, "y":  53, "text_size": "medium", "text_color_palette": "white" }
       ],
       "x": 299,
       "y": 116,
@@ -61,7 +61,7 @@
         { "image_path": "assets/dashboard/highlight.png","x": 0, "y": 0 },
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5, "recolor_palette": "red"  },
         { "image_path": "assets/dashboard/recon.png", "x": 19, "y": 22, "recolor_palette": "black"  },
-        { "text": "RECON", "x": -310, "y":  91, "text_size": "medium", "text_color_palette": "white" }
+        { "text": "RECON", "x": -327, "y":  89, "text_size": "medium", "text_color_palette": "white" }
       ],
       "x": 335,
       "y": 80,
@@ -77,7 +77,7 @@
         { "image_path": "assets/dashboard/highlight.png","x": 0, "y": 0 },
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5, "recolor_palette": "red"  },
         { "image_path": "assets/dashboard/pineap.png", "x": 19, "y": 19, "recolor_palette": "black"  },
-        { "text": "PINEAP", "x": -351, "y":  55, "text_size": "medium", "text_color_palette": "white" }
+        { "text": "PINEAP", "x": -365, "y":  54, "text_size": "medium", "text_color_palette": "white" }
       ],
       "x": 373,
       "y": 115,
@@ -93,7 +93,7 @@
         { "image_path": "assets/dashboard/highlight.png","x": 0, "y": 0 },
         { "image_path": "assets/dashboard/item_bg.png","x": 4, "y": 5, "recolor_palette": "red" },
         { "image_path": "assets/dashboard/settings.png", "x": 19, "y": 19, "recolor_palette": "black" },
-        { "text": "SETTINGS", "x": -404, "y":  90, "text_size": "medium", "text_color_palette": "white" }
+        { "text": "SETTINGS", "x": -405, "y":  89, "text_size": "medium", "text_color_palette": "white" }
       ],
       "x": 410,
       "y": 80,
